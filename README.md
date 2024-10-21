@@ -1,3 +1,3 @@
-# 1st_project
+# rj
 this is my 1st repo
 
